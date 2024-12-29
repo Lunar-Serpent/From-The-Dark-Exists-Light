@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Umbra.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Umbra.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\UmbraEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Umbra">
+      <UniqueIdentifier>{C875678A-9B1E-3D7B-AFB5-D606FD6521F7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Umbra\Umbra.Build.cs">
+      <Filter>Source\Umbra</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Umbra\Umbra.cpp">
+      <Filter>Source\Umbra</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Umbra\Umbra.h">
+      <Filter>Source\Umbra</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

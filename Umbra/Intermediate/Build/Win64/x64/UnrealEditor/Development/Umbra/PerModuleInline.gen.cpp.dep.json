@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\projects\\videogame projects\\from-the-dark-exists-light\\umbra\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\umbra\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\projects\\videogame projects\\from-the-dark-exists-light\\umbra\\intermediate\\build\\win64\\x64\\umbraeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\projects\\videogame projects\\from-the-dark-exists-light\\umbra\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\umbra\\definitions.umbra.h",
+            "d:\\unreal engine versions\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

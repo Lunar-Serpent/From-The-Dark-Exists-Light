@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Umbra.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Projects\Videogame Projects\From-The-Dark-Exists-Light\Umbra\Intermediate\Build\Win64\x64\UmbraEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"D:\Projects\Videogame Projects\From-The-Dark-Exists-Light\Umbra\Intermediate\Build\Win64\x64\UnrealEditor\Development\Umbra\Umbra.cpp.obj"
+"D:\Projects\Videogame Projects\From-The-Dark-Exists-Light\Umbra\Intermediate\Build\Win64\x64\UnrealEditor\Development\Umbra\PerModuleInline.gen.cpp.obj"
+"D:\Projects\Videogame Projects\From-The-Dark-Exists-Light\Umbra\Intermediate\Build\Win64\x64\UnrealEditor\Development\Umbra\Default.rc2.res"
+/OUT:"D:\Projects\Videogame Projects\From-The-Dark-Exists-Light\Umbra\Intermediate\Build\Win64\x64\UnrealEditor\Development\Umbra\UnrealEditor-Umbra.lib"

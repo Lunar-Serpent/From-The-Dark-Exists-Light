@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Umbra",
+			"Path": "..\\Source\\Umbra.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UmbraEditor",
+			"Path": "..\\Source\\UmbraEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
